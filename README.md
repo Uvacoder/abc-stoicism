@@ -1,6 +1,6 @@
 # [Awesome Stoicism](https://abc-stoicism.netlify.app)
 
-![demo](abc-stoicism.netlify.app.png)
+![demo](screenshot-abc-stoicism.netlify.app.png)
 
 Resources around stoic philosophy.
 
